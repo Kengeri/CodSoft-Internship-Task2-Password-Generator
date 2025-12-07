@@ -2,7 +2,7 @@
 
 ---
 
-## **2. Task2 – Password Generator**
+## Task2 – Password Generator**
 
 markdown
 # Codsoft Task2: Password Generator
